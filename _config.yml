@@ -1,6 +1,6 @@
 name: Prairie Cardiac Foundation
 favicon: null
-layout_spectrum: 0.030489316442981362
+layout_spectrum: 0.9537
 typography_spectrum: 0.33819715469144285
 title: Prairie Cardiac Foudation
 cta:
@@ -22,7 +22,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.8603719717357308
+  brandStrength: 0.8125
   lightness: 0.5772179292980582
   saturation: 0.5885916964616627
   rhythmicContrast: 0.23340635909698904
